@@ -54,6 +54,12 @@ canvas{
   vertical-align:bottom;
 }
 
+/* ---------------- */
+.active{
+  color: #ff392b;
+  font-weight: bolder;
+}
+
 
 /* ---- stats.js ---- */
 
